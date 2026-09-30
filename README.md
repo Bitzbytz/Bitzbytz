@@ -1,5 +1,15 @@
 ## Hi there 👋
+Here are a few quick things you can do to get started:
 
+- [ ]  Tap anywhere and **just start typing**. It’s that simple.
+- [ ]  Highlight text and use the menu above your keyboard to **change the style**.
+- [ ]  Tap the + icon above your keyboard to **add content**: headings, to-dos, and more.
+- [ ]  Collapse your keyboard, then tap and hold this line to **move content**.
+- [ ]  Tap the home icon at the bottom left to **see your pages.** (We’ve installed a **To Do List** for you – go check it out!)
+
+## 🗺️ **Keep exploring!**
+
+**You’ve just learned the basics.** But there’s so much more to explore — try embedding links and images, tapping on the face above your keyboard to check out Notion AI, or creating a new page using the compose icon in the bottom right corner.
 <!--
 **Bitzbytz/Bitzbytz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
